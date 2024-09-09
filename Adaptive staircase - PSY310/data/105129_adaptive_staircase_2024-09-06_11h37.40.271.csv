@@ -1,0 +1,3 @@
+﻿stair.thisTrialN,stair.stepSize,stair.intensity,thisRow.t,notes,trial.started,fixation.started,grating.started,key_resp.started,fixation.stopped,grating.stopped,trial.stopped,corrAns,tilt,key_resp.corr,stair.response,key_resp.rt,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+0,2,10.0,0.03134660003706813,,0.013827300164848566,0.03134660003706813,0.5334382001310587,0.5334382001310587,0.5482351998798549,0.8479769001714885,1.0853141997940838,left,-10.0,1,1,0.5395034998655319,105129,001,2024-09-06_11h37.40.271,adaptive_staircase,2024.1.5,None,2024-09-06 11h37.44.414997 +0530,
+,,,1.0979078998789191,,1.085394199937582,1.0979078998789191,1.5984497000463307,1.5984497000463307,1.5984497000463307,1.8978733997792006,,,,,,,,,,,,,,
